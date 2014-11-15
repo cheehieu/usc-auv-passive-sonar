@@ -1,0 +1,3 @@
+install Linux device driver, usb driver (/etc/udev/rules.d/99-totalphase...)
+
+rosrun sonar_node sonar_node 0 freq1 freq2 debug_en
