@@ -1,0 +1,12 @@
+Added Component: Designator=H1(bnc)
+Added Component: Designator=H2(bnc)
+Added Component: Designator=H3(bnc)
+Added Pin To Net: NetName=H1 Pin=H1-1
+Added Pin To Net: NetName=GND1 Pin=H1-2
+Added Pin To Net: NetName=H2 Pin=H2-1
+Added Pin To Net: NetName=GND2 Pin=H2-2
+Added Pin To Net: NetName=H3 Pin=H3-1
+Added Pin To Net: NetName=GND3 Pin=H3-2
+Added Member To Class: ClassName=sonar Member=Component H1 Header 2
+Added Member To Class: ClassName=sonar Member=Component H2 Header 2
+Added Member To Class: ClassName=sonar Member=Component H3 Header 2

@@ -1,0 +1,15 @@
+Change Net Name : Old Net Name=GND1 New Net Name=H1_N
+Change Net Name : Old Net Name=GND2 New Net Name=H2_N
+Change Net Name : Old Net Name=GND3 New Net Name=H3_N
+Change Net Name : Old Net Name=H1 New Net Name=H1_P
+Change Net Name : Old Net Name=H1_N New Net Name=VGA1_N
+Change Net Name : Old Net Name=H1_P New Net Name=VGA1_P
+Change Net Name : Old Net Name=H2 New Net Name=H2_P
+Change Net Name : Old Net Name=H2_N New Net Name=VGA2_N
+Change Net Name : Old Net Name=H2_P New Net Name=VGA2_P
+Change Net Name : Old Net Name=H3 New Net Name=H3_P
+Change Net Name : Old Net Name=H3_N New Net Name=VGA3_N
+Change Net Name : Old Net Name=H3_P New Net Name=VGA3_P
+Added Differential Pair: Name=VGA1
+Added Differential Pair: Name=VGA2
+Added Differential Pair: Name=VGA3

@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetC?_1 Pin=R?-2
+Added Component: Designator=VGA3(vga)
+Added Pin To Net: NetName=3V Pin=C?-1
+Added Pin To Net: NetName=3V Pin=C?-1
+Added Pin To Net: NetName=3V Pin=C?-1
+Added Pin To Net: NetName=GND1 Pin=C?-1
+Added Pin To Net: NetName=H1 Pin=C?-1
+Added Pin To Net: NetName=H2 Pin=C?-1
+Added Pin To Net: NetName=H2 Pin=C?-1
+Added Pin To Net: NetName=H2 Pin=C?-1
+Added Pin To Net: NetName=H2 Pin=C?-1
+Added Pin To Net: NetName=NetADC1_3 Pin=C?-1
+Added Pin To Net: NetName=NetADC2_3 Pin=C?-1
+Added Pin To Net: NetName=NetADC3_3 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=H2 Pin=P?-1
+Added Pin To Net: NetName=H2 Pin=P?-1
+Added Pin To Net: NetName=H2 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=NetCLMD_2 Pin=VGA3-1
+Added Pin To Net: NetName=NetCFB_2 Pin=VGA3-2
+Added Pin To Net: NetName=NetC6_2 Pin=VGA3-3
+Added Pin To Net: NetName=NetC16_2 Pin=VGA3-4
+Added Pin To Net: NetName=NetC14_2 Pin=VGA3-5
+Added Pin To Net: NetName=GND3 Pin=VGA3-6
+Added Pin To Net: NetName=NetC14_1 Pin=VGA3-7
+Added Pin To Net: NetName=NetC16_1 Pin=VGA3-8
+Added Pin To Net: NetName=NetP?_2 Pin=VGA3-9
+Added Pin To Net: NetName=GAIN3 Pin=VGA3-10
+Added Pin To Net: NetName=VCM Pin=VGA3-11
+Added Pin To Net: NetName=RCLMP Pin=VGA3-12
+Added Pin To Net: NetName=NetC32_2 Pin=VGA3-14
+Added Pin To Net: NetName=NetL4_2 Pin=VGA3-15
+Added Pin To Net: NetName=NetL3_2 Pin=VGA3-16
+Added Pin To Net: NetName=GND Pin=VGA3-17
+Added Pin To Net: NetName=GND Pin=VGA3-20
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component C? Cap Pol3
+Added Member To Class: ClassName=sonar Member=Component P? Header 3
+Added Member To Class: ClassName=sonar Member=Component P? Header 3
+Added Member To Class: ClassName=sonar Member=Component P? Header 3
+Added Member To Class: ClassName=sonar Member=Component VGA3 AD8331

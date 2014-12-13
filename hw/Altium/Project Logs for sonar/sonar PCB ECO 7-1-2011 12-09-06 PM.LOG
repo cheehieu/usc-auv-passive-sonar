@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VCM2 Pin=Arduino-4
+Removed Pin From Net: NetName=VCM3 Pin=Arduino-6
+Removed Pin From Net: NetName=SS1 Pin=Arduino-7
+Removed Pin From Net: NetName=MISO Pin=Arduino-8
+Removed Pin From Net: NetName=SS2 Pin=Arduino-9
+Removed Pin From Net: NetName=SCLK Pin=Arduino-10
+Removed Pin From Net: NetName=SS3 Pin=Arduino-11
+Removed Pin From Net: NetName=MOSI Pin=Arduino-13
+Removed Pin From Net: NetName=12V Pin=Arduino-14
+Removed Pin From Net: NetName=AUX Pin=Arduino-15
+Removed Pin From Net: NetName=GND Pin=Arduino-16
+Removed Pin From Net: NetName=GND Pin=CG_2-1
+Added Pin To Net: NetName=SS1 Pin=Arduino-3
+Added Pin To Net: NetName=MOSI Pin=Arduino-5
+Added Pin To Net: NetName=SS2 Pin=Arduino-6
+Added Pin To Net: NetName=SCLK Pin=Arduino-7
+Added Pin To Net: NetName=MISO Pin=Arduino-9
+Added Pin To Net: NetName=VCM2 Pin=Arduino-10
+Added Pin To Net: NetName=GND Pin=Arduino-11
+Added Pin To Net: NetName=12V Pin=Arduino-12
+Added Pin To Net: NetName=VCM3 Pin=Arduino-13
+Added Pin To Net: NetName=AUX Pin=Arduino-14
+Added Pin To Net: NetName=SS3 Pin=Arduino-16
+Added Pin To Net: NetName=5V Pin=MODE2-1
+Added Pin To Net: NetName=GND Pin=RG_2-2
+Added Pin To Net: NetName=NetArduino_8 Pin=Arduino-8
+Added Pin To Net: NetName=NetArduino_8 Pin=CG_2-1
+Added Net: Name=NetArduino_8
+Added Pin To Net: NetName=NetArduino_15 Pin=Arduino-15
+Added Pin To Net: NetName=NetArduino_15 Pin=RG_3-2
+Added Net: Name=NetArduino_15

@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: sonar.PcbDoc   7/5/2011  10:37:10 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : sonar.TXT
+EIA File   : sonar.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          59               313.34 Inch (7958.94 mm)
+T2        35mil (0.889mm)          Round          44               305.51 Inch (7759.94 mm)
+T3        40mil (1.016mm)          Round          6                297.51 Inch (7556.75 mm)
+T4        190mil (4.826mm)         Round          3                296.98 Inch (7543.18 mm)
+---------------------------------------------------------------------------
+Totals                                            112              1213.34 Inch (30818.81 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

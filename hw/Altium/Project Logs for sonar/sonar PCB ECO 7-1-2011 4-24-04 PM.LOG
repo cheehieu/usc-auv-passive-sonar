@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=NetADC1_1 New Net Name=H1_P
+Change Net Name : Old Net Name=NetADC1_2 New Net Name=H1_N
+Change Net Name : Old Net Name=NetADC2_1 New Net Name=H2_P
+Change Net Name : Old Net Name=NetADC2_2 New Net Name=H2_N
+Change Net Name : Old Net Name=NetADC3_1 New Net Name=H3_P
+Change Net Name : Old Net Name=NetADC3_2 New Net Name=H3_N
+Added Differential Pair: Name=H1
+Added Differential Pair: Name=H2
+Added Differential Pair: Name=H3

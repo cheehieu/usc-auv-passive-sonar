@@ -1,0 +1,4 @@
+Replace Part * VGA in D:\Robotics\Sonar\Altium\sonar.SchDoc with VGA from sonar.SchLib
+Replace Part * LPF in D:\Robotics\Sonar\Altium\sonar.SchDoc with LPF from sonar.SchLib
+Replace Part * DIFF_XCVR in D:\Robotics\Sonar\Altium\sonar.SchDoc with DIFF_XCVR from sonar.SchLib
+Replace Part * ADC in D:\Robotics\Sonar\Altium\sonar.SchDoc with ADC from sonar.SchLib

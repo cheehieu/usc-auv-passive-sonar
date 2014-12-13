@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCM3 Pin=Arduino-13
+Removed Pin From Net: NetName=AUX Pin=Arduino-14
+Added Pin To Net: NetName=AUX Pin=Arduino-13
+Added Pin To Net: NetName=VCM3 Pin=Arduino-14

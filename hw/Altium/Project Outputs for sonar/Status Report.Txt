@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [sonar.PrjPCB]
+   Generated File[sonar.GTS]
+   Generated File[sonar.GD1]
+   Generated File[sonar.GG1]
+   Generated File[sonar.RUL]
+   Generated File[sonar.EXTREP]
+   Generated File[sonar.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 11:06:12 AM On 7/5/2011

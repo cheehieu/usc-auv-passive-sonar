@@ -1,0 +1,52 @@
+10Mhz Cheetah clock
+3kHz sine wave, 1VPP
++/- 2.5V input
+clipping?
+
+
+Reading data from an ADC with the Cheetah:
+---SET UP COMMAND QUEUE---
+- Call ch_spi_queue_clear to clear the command queue.
+- Call ch_spi_queue_oe to add a command to the queue to enable the Cheetah device’s outputs on the SPI bus.
+- Call ch_spi_queue_ss to add a command to the queue to enable the slave select signal.
+- Call ch_spi_queue_byte and ch_spi_queue_array to queue data to be sent across the SPI bus
+- Call ch_spi_queue_ss to queue a command to disable the slave select signal
+- Optionally, call ch_spi_queue_oe to queue a command to disable the outputs of the Cheetah device.
+- Call ch_spi_batch_shift to send the accumulated accumulated commands across the SPI bus.
+
+
+Note:
+Please note that the queue is not cleared after it has been executed. This allows the same
+queue to be executed multiple times without re-queuing commands. The only way to clear a
+queue is by calling ch_spi_queue_clear.
+
+If the user wishes to repeat the exact same shift sequence on the bus, the last step can be
+executed without the preceding ones. Also, the OE enable commands and SS assert/deassert
+commands are held persistent on the Cheetah device. 
+
+---SEND SEVERAL SEPARATE SPI PACKETS---
+1. Assert the OE.
+2. Assert the appropriate SS, queue the data, and deassert SS.
+3. Add optional delay on the bus.
+4. Assert the appropriate SS, queue the data, and deassert SS.
+5. Repeat the last two steps as many times as desired.
+6. Call the batch shift function.
+
+There is an alternative, non-blocking implementation that
+can be used in lieu of ch_spi_batch_shift. The functions ch_spi_async_submit and
+ch_spi_async_collect allow the user to submit a batch queue and perform other tasks (including
+assembling and submitting a subsequent queue) before collecting the results of the initial SPI shift operation. 
+
+
+---PROCESSING ASYNC DATA---
+1. Submit 2–4 asynchronous batches, each with about 40 ms worth of SPI shifting. A single batch can contain many SPI commands / packets, of course.
+2. Call ch_spi_async_collect to collect one batch. Signal another thread to process this data.
+3. Submit another asynchronous batch to replace the one that was just collected.
+4. Repeat steps 2 & 3 while your other thread simply processes the data.
+
+
+
+
+
+
+

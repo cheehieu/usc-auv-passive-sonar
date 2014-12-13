@@ -1,0 +1,15 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~sonar.PrjPCB|ReportField=ProjectFullPath~D:\Robotics\Sonar\Altium\sonar.PrjPCB|ReportField=Title~Bill of Materials For Project [sonar.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~96|ReportField=ReportTime~11:50:37 PM|ReportField=ReportDate~7/3/2011|ReportField=ReportDateTime~7/3/2011 11:50:37 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~7/3/2011|ReportField=CurrentTime~11:50:33 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Robotics\Sonar\Altium\sonar.SchDoc|ReportField=DocumentName~sonar.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~7/3/2011|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~sonar.PrjPCB|ReportField=DataSourceFullPath~D:\Robotics\Sonar\Altium\sonar.PrjPCB
+LTC14031||ADC1, ADC2, ADC3|ADC|ADC|3
+Header 8X2|Header, 8-Pin, Dual row|Arduino|HDR2X8|Header 8X2|1
+LED3|Typical BLUE SiC LED|AUX, CLK, PWR|LED|LED3|3
+Cap|Capacitor|C1, C2|cap_vreg_1uf|Cap|2
+Cap|Capacitor|C1_1, C1_2, C1_3, C2_1, C2_2, C2_3|cap_adc_10uf|Cap|6
+Cap|Capacitor|C3|CAP_VREG_470PF|Cap|1
+Cap|Capacitor|C6_1, C6_2, C6_3, C14_1, C14_2, C14_3, C16_1, C16_2, C16_3, C17_1, C17_2, C17_3, C18_1, C18_2, C18_3, C32_1, C32_2, C32_3, C34_1, C34_2, C34_3, CFB1, CFB2, CFB3, CG_1, CG_2, CG_3, CINH1, CINH2, CINH3, CLMD1, CLMD2, CLMD3, CSH1, CSH2, CSH3|CAP_VGA_01UF|Cap|36
+Header 5X2|Header, 5-Pin, Dual row|Cheetah|HDR2X5|Header 5X2|1
+Header 2|Header, 2-Pin|H1, H2, H3|bnc|Header 2|3
+Header 3|Header, 3-Pin|HILO1, HILO2, HILO3, MODE1, MODE2, MODE3|HDR1X3|Header 3|6
+FB Inductor|Inductor|L1_1, L1_2, L1_3, L2_1, L2_2, L2_3, L3_1, L3_2, L3_3, L4_1, L4_2, L4_3, L5_1, L5_2, L5_3|ind_vga_120nh|Inductor|15
+Res3|Resistor|R1, R2, R3, R43_1, R43_2, R43_3, R44_1, R44_2, R44_3, RFB1, RFB2, RFB3, RG_1, RG_2, RG_3|res_vga_274|Res3|15
+AD8331||VGA1, VGA2, VGA3|VGA|VGA|3
+3VOLT_REG||VR|3VOLT_REG|3VOLT_REG|1

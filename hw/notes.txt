@@ -1,0 +1,49 @@
+3ADC ()
+- input filtering with NPO and silvermica type dielectric capacitors, metal film resistors (pg. 12)
+- input range from VGA (1.25V)
+- 10uF ceramic or tantalum in parallel with .1uF ceramic capacitor for Vref->GND
+
+- board layout
+- PCB with ground plane
+- separate analog and digital signal lines
+- 10uF surface mount AVX capacitor for VDD (Murata GRM219R60J106M)
+- 0.1uF ceramic capacitor for VREF
+- capacitors located as close to pins as possible (keep traces short and wide as possible)
+
+
+VGA (AD8331)
+- Each channel contains an LNA that provides user-adjustable input impedance termination, a differential X-AMP VGA, and a pro-grammable gain postamp with adjustable output voltage limiting
+- hydrophones have a 1kohm impedance at desired frequencies
+- HILO, GAIN, VCM (adjust to 1.5V for 3V ADC)
+- values of RFM and CSH, based on LNA input impedance
+- VCM, RCLMP, driving 3V ADC's
+- get rid of some jumpers to save space
+
+- board layout
+- multilayer board with power and ground planes recommended
+- blank areas in the signal layers filled with ground plane
+- decoupling SM caps for power supply pins
+- decoupling ferrite beads for LNA power pins
+- 5V regulator for VGA array
+- LON/LOP traces as short as possible for coupling caps
+- Riz placed near LON pin
+- resistors placed close to VGA output pins, VOL/VOH
+- short signal traces
+
+Voltage Reg
+- aluminum electrolytic or tantalum capacitors
+- effective series resistance greater than 0.1ohm, less than 5ohm
+
+Lowpass filter to remove high frequency noise?
+BNC connector footprint (vertical or right angle?)
+//Hard-wire jumpers
+Figure out VGA and ADC special inputs/outputs
+Mounting drill holes
+Arduino pin to LED
+Trace length for diff pairs (VGA to ADC)
+Place ADC on back of board (upside down)
+Arduino's max PWM frequency is 62500Hz
+Cheetah and Arduino header connectors spacing
+Include low pass (band pass filter)
+Thicker power and ground traces
+Fix Gain2 LPF

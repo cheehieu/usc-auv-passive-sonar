@@ -1,0 +1,67 @@
+[OutputJobFile]
+Version=1.0
+
+[OutputGroup1]
+Name=
+Description=
+TargetOutputMedium=Publish To PDF
+IncludedInRelease=0
+TargetPrinter=HP Photosmart C4200 series
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+OutputMedium1=Print To HP Photosmart C4200 series
+OutputMedium1_Type=Printer
+OutputMedium1_Printer=
+OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+OutputMedium2=Publish To PDF
+OutputMedium2_Type=Publish
+OutputMedium3=Publish To Web
+OutputMedium3_Type=PublishToWeb
+OutputMedium4=Generate Files
+OutputMedium4_Type=GeneratedFiles
+OutputType1=Schematic Print
+OutputName1=Schematic Prints of sonar_DAQ.SchDoc
+OutputDocumentPath1=sonar_DAQ.SchDoc
+OutputVariantName1=
+OutputEnabled1=1
+OutputEnabled1_OutputMedium1=0
+OutputEnabled1_OutputMedium2=1
+OutputEnabled1_OutputMedium3=0
+OutputEnabled1_OutputMedium4=0
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.92|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
+
+[PublishSettings]
+PublishMethod2=0
+OpenOutput2=1
+PromptOverwrite2=1
+ZoomLevel2=50
+FitSCHPrintSizeToDoc2=0
+FitPCBPrintSizeToDoc2=0
+GenerateNetsInfo2=1
+MarkPins2=1
+MarkNetLabels2=1
+MarkPortsId2=1
+OutputFilePath2=D:\Robotics\SVN\Altium\Projects\Sonar_DAQ\sonar_DAQ.pdf
+PublishMethod3=2
+OpenOutput3=1
+PromptOverwrite3=1
+ZoomLevel3=50
+FitSCHPrintSizeToDoc3=1
+FitPCBPrintSizeToDoc3=1
+GenerateNetsInfo3=1
+MarkPins3=1
+MarkNetLabels3=1
+MarkPortsId3=1
+WebOutputMediumType3=FS
+OutputDirectory3=D:\Robotics\SVN\Altium\Projects\Sonar_DAQ\Project Outputs for sonar_DAQ\WebOutput
+
+[GeneratedFilesSettings]
+RelativeOutputPath4=
+OpenOutputs4=0
+AddToProject4=1
+TimestampFolder4=0
+SeparateFolderForEachOutput4=0
+UseOutputName4=0
+

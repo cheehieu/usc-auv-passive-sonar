@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetArduino_10 Pin=CG_2-1
+Removed Pin From Net: NetName=GAIN2 Pin=CG_2-2
+Removed Pin From Net: NetName=GAIN2 Pin=RG_2-1
+Removed Pin From Net: NetName=GND Pin=RG_2-2
+Added Pin To Net: NetName=GAIN2 Pin=CG_2-1
+Added Pin To Net: NetName=GND Pin=CG_2-2
+Added Pin To Net: NetName=NetArduino_10 Pin=RG_2-1
+Added Pin To Net: NetName=GAIN2 Pin=RG_2-2

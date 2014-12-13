@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [chunk.PrjPCB]
+   Generated File[chunk.TXT]
+   Generated File[chunk.DRL]
+   Generated File[chunk.LDP]
+   Generated File[chunk.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:15:30 AM On 7/2/2012

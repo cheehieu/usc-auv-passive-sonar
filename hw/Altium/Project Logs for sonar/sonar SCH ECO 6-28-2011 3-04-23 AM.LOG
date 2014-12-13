@@ -1,0 +1,87 @@
+Replace Part ADC1 ADC in D:\Robotics\Sonar\Altium\sonar.SchDoc with ADC from sonar.SchLib
+Replace Part ADC2 ADC in D:\Robotics\Sonar\Altium\sonar.SchDoc with ADC from sonar.SchLib
+Replace Part ADC3 ADC in D:\Robotics\Sonar\Altium\sonar.SchDoc with ADC from sonar.SchLib
+Replace Part Arduino_Interface Header 11 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 11 from Miscellaneous Connectors.IntLib
+Replace Part C1_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C1_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C1_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C2_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C2_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C2_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C6_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C6_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C6_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C14_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C14_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C14_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C16_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C16_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C16_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C17_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C17_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C17_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C18_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C18_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C18_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C32_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C32_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C32_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C34_1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C34_2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C34_3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CFB1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CFB2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CFB3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CHEETAH Header 5X2 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 5X2 from Miscellaneous Connectors.IntLib
+Replace Part CINH1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CINH2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CINH3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CLMD1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CLMD2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CLMD3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CSH1 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CSH2 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part CSH3 Cap in D:\Robotics\Sonar\Altium\sonar.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part ENBL1 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part ENBL2 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part ENBL3 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part ENBV1 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part ENBV2 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part ENBV3 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part H1 Header 2 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Part H2 Header 2 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Part H3 Header 2 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 2 from Miscellaneous Connectors.IntLib
+Replace Part HILO1 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part HILO2 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part HILO3 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part L1_1 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L1_2 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L1_3 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L2_1 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L2_2 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L2_3 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L3_1 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L3_2 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L3_3 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L4_1 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L4_2 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L4_3 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L5_1 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L5_2 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part L5_3 Inductor in D:\Robotics\Sonar\Altium\sonar.SchDoc with Inductor from Miscellaneous Devices.IntLib
+Replace Part MODE1 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part MODE2 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part MODE3 Header 3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Header 3 from Miscellaneous Connectors.IntLib
+Replace Part R43_1 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R43_2 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R43_3 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R44_1 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R44_2 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R44_3 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part RFB1 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part RFB2 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part RFB3 Res3 in D:\Robotics\Sonar\Altium\sonar.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part VGA1 VGA in D:\Robotics\Sonar\Altium\sonar.SchDoc with VGA from sonar.SchLib
+Replace Part VGA2 VGA in D:\Robotics\Sonar\Altium\sonar.SchDoc with VGA from sonar.SchLib
+Replace Part VGA3 VGA in D:\Robotics\Sonar\Altium\sonar.SchDoc with VGA from sonar.SchLib
+Replace Part VR 3VOLT_REG in D:\Robotics\Sonar\Altium\sonar.SchDoc with 3VOLT_REG from sonar.SchLib

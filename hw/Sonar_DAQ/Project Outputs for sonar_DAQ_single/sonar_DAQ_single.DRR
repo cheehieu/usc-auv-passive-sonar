@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: sonar_DAQ_single.PcbDoc   6/13/2012  8:04:05 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : sonar_DAQ_single-RoundHoles.TXT
+ASCII SquareHoles File : sonar_DAQ_single-SquareHoles.TXT
+EIA File   : sonar_DAQ_single.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          204              361.81 Inch (9190.04 mm)
+T2        35.43mil (0.89992mm)     Round          154              340.43 Inch (8646.99 mm)
+T3        38.19mil (0.97003mm)     Round          18               302.29 Inch (7678.14 mm)
+T4        39.37mil (1mm)           Round          4                296.35 Inch (7527.30 mm)
+T5        41.34mil (1.05004mm)     Square         16               298.16 Inch (7573.20 mm)
+T6        82.28mil (2.08991mm)     Round          18               304.25 Inch (7727.99 mm)
+T7        149.5mil (3.7973mm)      Round          4                296.82 Inch (7539.29 mm)
+---------------------------------------------------------------------------
+Totals                                            418              2200.12 Inch (55882.95 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

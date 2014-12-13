@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=+12V-2
+Removed Pin From Net: NetName=GND Pin=-12V-1
+Removed Pin From Net: NetName=NetOP1_2 Pin=R12-1
+Removed Pin From Net: NetName=NetOP2_2 Pin=R22-1
+Removed Pin From Net: NetName=NetOP3_2 Pin=R32-1
+Removed Pin From Net: NetName=+12V Pin=RL2-2
+Removed Pin From Net: NetName=-12V Pin=RL4-2
+Removed Member From Class: ClassName=sonar_DAQ Member=+12V
+Removed Member From Class: ClassName=sonar_DAQ Member=-12V
+Removed Member From Class: ClassName=sonar_DAQ Member=RL2
+Removed Member From Class: ClassName=sonar_DAQ Member=RL3
+Removed Member From Class: ClassName=sonar_DAQ Member=RL4
+Removed Member From Class: ClassName=sonar_DAQ Member=RL5
+Change Component Footprint: Designator=CP1 Old Footprint=0805_tantalum_cap New Footprint=1210_cap
+Change Component Footprint: Designator=CP2 Old Footprint=0805_tantalum_cap New Footprint=1210_cap
+Change Component Footprint: Designator=CP3 Old Footprint=0805_tantalum_cap New Footprint=1210_cap
+Added Pin To Net: NetName=NetOP1_2 Pin=R12-3
+Added Pin To Net: NetName=NetOP2_2 Pin=R22-3
+Added Pin To Net: NetName=NetOP3_2 Pin=R32-3

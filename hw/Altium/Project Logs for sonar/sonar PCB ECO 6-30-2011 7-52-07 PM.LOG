@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=H1 Old Footprint=HDR1X2 New Footprint=bnc
+Change Component Footprint: Designator=H2 Old Footprint=HDR1X2 New Footprint=bnc
+Change Component Footprint: Designator=H3 Old Footprint=HDR1X2 New Footprint=bnc
+Added Room: Name=sonar

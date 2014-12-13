@@ -1,0 +1,438 @@
+Added Component: Designator=ADC1(ADC)
+Added Component: Designator=ADC2(ADC)
+Added Component: Designator=ADC3(ADC)
+Added Component: Designator=Arduino_Interface(HDR2X7)
+Added Component: Designator=C1_1(cap_adc_10uf)
+Added Component: Designator=C1_2(cap_adc_10uf)
+Added Component: Designator=C1_3(cap_adc_10uf)
+Added Component: Designator=C1(cap_vreg_1uf)
+Added Component: Designator=C2_1(cap_adc_10uf)
+Added Component: Designator=C2_2(cap_adc_10uf)
+Added Component: Designator=C2_3(cap_adc_10uf)
+Added Component: Designator=C2(cap_vreg_1uf)
+Added Component: Designator=C3(CAP_VREG_470PF)
+Added Component: Designator=C6_1(CAP_VGA_01UF)
+Added Component: Designator=C6_2(CAP_VGA_01UF)
+Added Component: Designator=C6_3(CAP_VGA_01UF)
+Added Component: Designator=C14_1(CAP_VGA_01UF)
+Added Component: Designator=C14_2(CAP_VGA_01UF)
+Added Component: Designator=C14_3(CAP_VGA_01UF)
+Added Component: Designator=C16_1(CAP_VGA_01UF)
+Added Component: Designator=C16_2(CAP_VGA_01UF)
+Added Component: Designator=C16_3(CAP_VGA_01UF)
+Added Component: Designator=C17_1(CAP_VGA_01UF)
+Added Component: Designator=C17_2(CAP_VGA_01UF)
+Added Component: Designator=C17_3(CAP_VGA_01UF)
+Added Component: Designator=C18_1(CAP_VGA_01UF)
+Added Component: Designator=C18_2(CAP_VGA_01UF)
+Added Component: Designator=C18_3(CAP_VGA_01UF)
+Added Component: Designator=C32_1(CAP_VGA_01UF)
+Added Component: Designator=C32_2(CAP_VGA_01UF)
+Added Component: Designator=C32_3(CAP_VGA_01UF)
+Added Component: Designator=C34_1(CAP_VGA_01UF)
+Added Component: Designator=C34_2(CAP_VGA_01UF)
+Added Component: Designator=C34_3(CAP_VGA_01UF)
+Added Component: Designator=CFB1(CAP_VGA_01UF)
+Added Component: Designator=CFB2(CAP_VGA_01UF)
+Added Component: Designator=CFB3(CAP_VGA_01UF)
+Added Component: Designator=CHEETAH(HDR2X5)
+Added Component: Designator=CINH1(CAP_VGA_01UF)
+Added Component: Designator=CINH2(CAP_VGA_01UF)
+Added Component: Designator=CINH3(CAP_VGA_01UF)
+Added Component: Designator=CLMD1(CAP_VGA_01UF)
+Added Component: Designator=CLMD2(CAP_VGA_01UF)
+Added Component: Designator=CLMD3(CAP_VGA_01UF)
+Added Component: Designator=CSH1(CAP_VGA_01UF)
+Added Component: Designator=CSH2(CAP_VGA_01UF)
+Added Component: Designator=CSH3(CAP_VGA_01UF)
+Added Component: Designator=H1(HDR1X2)
+Added Component: Designator=H2(HDR1X2)
+Added Component: Designator=H3(HDR1X2)
+Added Component: Designator=HILO1(HDR1X3)
+Added Component: Designator=HILO2(HDR1X3)
+Added Component: Designator=HILO3(HDR1X3)
+Added Component: Designator=L1_1(ind_vga_120nh)
+Added Component: Designator=L1_2(ind_vga_120nh)
+Added Component: Designator=L1_3(ind_vga_120nh)
+Added Component: Designator=L2_1(ind_vga_120nh)
+Added Component: Designator=L2_2(ind_vga_120nh)
+Added Component: Designator=L2_3(ind_vga_120nh)
+Added Component: Designator=L3_1(ind_vga_120nh)
+Added Component: Designator=L3_2(ind_vga_120nh)
+Added Component: Designator=L3_3(ind_vga_120nh)
+Added Component: Designator=L4_1(ind_vga_120nh)
+Added Component: Designator=L4_2(ind_vga_120nh)
+Added Component: Designator=L4_3(ind_vga_120nh)
+Added Component: Designator=L5_1(ind_vga_120nh)
+Added Component: Designator=L5_2(ind_vga_120nh)
+Added Component: Designator=L5_3(ind_vga_120nh)
+Added Component: Designator=MODE1(HDR1X3)
+Added Component: Designator=MODE2(HDR1X3)
+Added Component: Designator=MODE3(HDR1X3)
+Added Component: Designator=R43_1(res_vga_274)
+Added Component: Designator=R43_2(res_vga_274)
+Added Component: Designator=R43_3(res_vga_274)
+Added Component: Designator=R44_1(res_vga_274)
+Added Component: Designator=R44_2(res_vga_274)
+Added Component: Designator=R44_3(res_vga_274)
+Added Component: Designator=RFB1(res_vga_274)
+Added Component: Designator=RFB2(res_vga_274)
+Added Component: Designator=RFB3(res_vga_274)
+Added Component: Designator=VGA1(VGA)
+Added Component: Designator=VGA2(VGA)
+Added Component: Designator=VGA3(VGA)
+Added Component: Designator=VR(3VOLT_REG)
+Added Pin To Net: NetName=3V Pin=ADC1-7
+Added Pin To Net: NetName=3V Pin=ADC2-7
+Added Pin To Net: NetName=3V Pin=ADC3-7
+Added Pin To Net: NetName=3V Pin=C2-2
+Added Pin To Net: NetName=3V Pin=C2_1-2
+Added Pin To Net: NetName=3V Pin=C2_2-2
+Added Pin To Net: NetName=3V Pin=C2_3-2
+Added Pin To Net: NetName=3V Pin=VR-5
+Added Net: Name=3V
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=5V Pin=CHEETAH-4
+Added Pin To Net: NetName=5V Pin=CHEETAH-6
+Added Pin To Net: NetName=5V Pin=HILO1-1
+Added Pin To Net: NetName=5V Pin=HILO2-1
+Added Pin To Net: NetName=5V Pin=HILO3-1
+Added Pin To Net: NetName=5V Pin=L2_1-1
+Added Pin To Net: NetName=5V Pin=L2_2-1
+Added Pin To Net: NetName=5V Pin=L2_3-1
+Added Pin To Net: NetName=5V Pin=L5_1-1
+Added Pin To Net: NetName=5V Pin=L5_2-1
+Added Pin To Net: NetName=5V Pin=L5_3-1
+Added Pin To Net: NetName=5V Pin=MODE1-1
+Added Pin To Net: NetName=5V Pin=MODE2-1
+Added Pin To Net: NetName=5V Pin=MODE3-1
+Added Pin To Net: NetName=5V Pin=VGA1-18
+Added Pin To Net: NetName=5V Pin=VGA1-19
+Added Pin To Net: NetName=5V Pin=VGA2-18
+Added Pin To Net: NetName=5V Pin=VGA2-19
+Added Pin To Net: NetName=5V Pin=VGA3-18
+Added Pin To Net: NetName=5V Pin=VGA3-19
+Added Pin To Net: NetName=5V Pin=VR-1
+Added Pin To Net: NetName=5V Pin=VR-3
+Added Net: Name=5V
+Added Pin To Net: NetName=12V Pin=Arduino_Interface-12
+Added Net: Name=12V
+Added Pin To Net: NetName=GAIN1 Pin=Arduino_Interface-1
+Added Pin To Net: NetName=GAIN1 Pin=C34_1-2
+Added Pin To Net: NetName=GAIN1 Pin=VGA1-10
+Added Net: Name=GAIN1
+Added Pin To Net: NetName=GAIN2 Pin=Arduino_Interface-3
+Added Pin To Net: NetName=GAIN2 Pin=C34_2-2
+Added Pin To Net: NetName=GAIN2 Pin=VGA2-10
+Added Net: Name=GAIN2
+Added Pin To Net: NetName=GAIN3 Pin=Arduino_Interface-5
+Added Pin To Net: NetName=GAIN3 Pin=C34_3-2
+Added Pin To Net: NetName=GAIN3 Pin=VGA3-10
+Added Net: Name=GAIN3
+Added Pin To Net: NetName=GND1 Pin=H1-2
+Added Pin To Net: NetName=GND1 Pin=VGA1-6
+Added Net: Name=GND1
+Added Pin To Net: NetName=GND2 Pin=H2-2
+Added Pin To Net: NetName=GND2 Pin=VGA2-6
+Added Net: Name=GND2
+Added Pin To Net: NetName=GND3 Pin=H3-2
+Added Pin To Net: NetName=GND3 Pin=VGA3-6
+Added Net: Name=GND3
+Added Pin To Net: NetName=GND Pin=ADC1-4
+Added Pin To Net: NetName=GND Pin=ADC1-5
+Added Pin To Net: NetName=GND Pin=ADC1-6
+Added Pin To Net: NetName=GND Pin=ADC2-4
+Added Pin To Net: NetName=GND Pin=ADC2-5
+Added Pin To Net: NetName=GND Pin=ADC2-6
+Added Pin To Net: NetName=GND Pin=ADC3-4
+Added Pin To Net: NetName=GND Pin=ADC3-5
+Added Pin To Net: NetName=GND Pin=ADC3-6
+Added Pin To Net: NetName=GND Pin=Arduino_Interface-14
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1_1-1
+Added Pin To Net: NetName=GND Pin=C1_2-1
+Added Pin To Net: NetName=GND Pin=C1_3-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2_1-1
+Added Pin To Net: NetName=GND Pin=C2_2-1
+Added Pin To Net: NetName=GND Pin=C2_3-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C6_1-1
+Added Pin To Net: NetName=GND Pin=C6_2-1
+Added Pin To Net: NetName=GND Pin=C6_3-1
+Added Pin To Net: NetName=GND Pin=C17_1-1
+Added Pin To Net: NetName=GND Pin=C17_2-1
+Added Pin To Net: NetName=GND Pin=C17_3-1
+Added Pin To Net: NetName=GND Pin=C18_1-1
+Added Pin To Net: NetName=GND Pin=C18_2-1
+Added Pin To Net: NetName=GND Pin=C18_3-1
+Added Pin To Net: NetName=GND Pin=C32_1-1
+Added Pin To Net: NetName=GND Pin=C32_2-1
+Added Pin To Net: NetName=GND Pin=C32_3-1
+Added Pin To Net: NetName=GND Pin=C34_1-1
+Added Pin To Net: NetName=GND Pin=C34_2-1
+Added Pin To Net: NetName=GND Pin=C34_3-1
+Added Pin To Net: NetName=GND Pin=CHEETAH-2
+Added Pin To Net: NetName=GND Pin=CHEETAH-10
+Added Pin To Net: NetName=GND Pin=CLMD1-1
+Added Pin To Net: NetName=GND Pin=CLMD2-1
+Added Pin To Net: NetName=GND Pin=CLMD3-1
+Added Pin To Net: NetName=GND Pin=CSH1-1
+Added Pin To Net: NetName=GND Pin=CSH2-1
+Added Pin To Net: NetName=GND Pin=CSH3-1
+Added Pin To Net: NetName=GND Pin=HILO1-3
+Added Pin To Net: NetName=GND Pin=HILO2-3
+Added Pin To Net: NetName=GND Pin=HILO3-3
+Added Pin To Net: NetName=GND Pin=MODE1-3
+Added Pin To Net: NetName=GND Pin=MODE2-3
+Added Pin To Net: NetName=GND Pin=MODE3-3
+Added Pin To Net: NetName=GND Pin=VGA1-17
+Added Pin To Net: NetName=GND Pin=VGA1-20
+Added Pin To Net: NetName=GND Pin=VGA2-17
+Added Pin To Net: NetName=GND Pin=VGA2-20
+Added Pin To Net: NetName=GND Pin=VGA3-17
+Added Pin To Net: NetName=GND Pin=VGA3-20
+Added Pin To Net: NetName=GND Pin=VR-2
+Added Net: Name=GND
+Added Pin To Net: NetName=H1 Pin=H1-1
+Added Pin To Net: NetName=H1 Pin=L1_1-1
+Added Net: Name=H1
+Added Pin To Net: NetName=H2 Pin=H2-1
+Added Pin To Net: NetName=H2 Pin=L1_2-1
+Added Net: Name=H2
+Added Pin To Net: NetName=H3 Pin=H3-1
+Added Pin To Net: NetName=H3 Pin=L1_3-1
+Added Net: Name=H3
+Added Pin To Net: NetName=MISO Pin=ADC1-8
+Added Pin To Net: NetName=MISO Pin=ADC2-8
+Added Pin To Net: NetName=MISO Pin=ADC3-8
+Added Pin To Net: NetName=MISO Pin=Arduino_Interface-8
+Added Pin To Net: NetName=MISO Pin=CHEETAH-5
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=Arduino_Interface-13
+Added Pin To Net: NetName=MOSI Pin=CHEETAH-8
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetADC1_1 Pin=ADC1-1
+Added Pin To Net: NetName=NetADC1_1 Pin=L4_1-1
+Added Pin To Net: NetName=NetADC1_1 Pin=R43_1-2
+Added Net: Name=NetADC1_1
+Added Pin To Net: NetName=NetADC1_2 Pin=ADC1-2
+Added Pin To Net: NetName=NetADC1_2 Pin=L3_1-1
+Added Pin To Net: NetName=NetADC1_2 Pin=R44_1-2
+Added Net: Name=NetADC1_2
+Added Pin To Net: NetName=NetADC1_3 Pin=ADC1-3
+Added Pin To Net: NetName=NetADC1_3 Pin=C1_1-2
+Added Net: Name=NetADC1_3
+Added Pin To Net: NetName=NetADC2_1 Pin=ADC2-1
+Added Pin To Net: NetName=NetADC2_1 Pin=L4_2-1
+Added Pin To Net: NetName=NetADC2_1 Pin=R43_2-2
+Added Net: Name=NetADC2_1
+Added Pin To Net: NetName=NetADC2_2 Pin=ADC2-2
+Added Pin To Net: NetName=NetADC2_2 Pin=L3_2-1
+Added Pin To Net: NetName=NetADC2_2 Pin=R44_2-2
+Added Net: Name=NetADC2_2
+Added Pin To Net: NetName=NetADC2_3 Pin=ADC2-3
+Added Pin To Net: NetName=NetADC2_3 Pin=C1_2-2
+Added Net: Name=NetADC2_3
+Added Pin To Net: NetName=NetADC3_1 Pin=ADC3-1
+Added Pin To Net: NetName=NetADC3_1 Pin=L4_3-1
+Added Pin To Net: NetName=NetADC3_1 Pin=R43_3-2
+Added Net: Name=NetADC3_1
+Added Pin To Net: NetName=NetADC3_2 Pin=ADC3-2
+Added Pin To Net: NetName=NetADC3_2 Pin=L3_3-1
+Added Pin To Net: NetName=NetADC3_2 Pin=R44_3-2
+Added Net: Name=NetADC3_2
+Added Pin To Net: NetName=NetADC3_3 Pin=ADC3-3
+Added Pin To Net: NetName=NetADC3_3 Pin=C1_3-2
+Added Net: Name=NetADC3_3
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=VR-4
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC6_1_2 Pin=C6_1-2
+Added Pin To Net: NetName=NetC6_1_2 Pin=L2_1-2
+Added Pin To Net: NetName=NetC6_1_2 Pin=VGA1-3
+Added Net: Name=NetC6_1_2
+Added Pin To Net: NetName=NetC6_2_2 Pin=C6_2-2
+Added Pin To Net: NetName=NetC6_2_2 Pin=L2_2-2
+Added Pin To Net: NetName=NetC6_2_2 Pin=VGA2-3
+Added Net: Name=NetC6_2_2
+Added Pin To Net: NetName=NetC6_3_2 Pin=C6_3-2
+Added Pin To Net: NetName=NetC6_3_2 Pin=L2_3-2
+Added Pin To Net: NetName=NetC6_3_2 Pin=VGA3-3
+Added Net: Name=NetC6_3_2
+Added Pin To Net: NetName=NetC14_1_1 Pin=C14_1-1
+Added Pin To Net: NetName=NetC14_1_1 Pin=VGA1-7
+Added Net: Name=NetC14_1_1
+Added Pin To Net: NetName=NetC14_1_2 Pin=C14_1-2
+Added Pin To Net: NetName=NetC14_1_2 Pin=VGA1-5
+Added Net: Name=NetC14_1_2
+Added Pin To Net: NetName=NetC14_2_1 Pin=C14_2-1
+Added Pin To Net: NetName=NetC14_2_1 Pin=VGA2-7
+Added Net: Name=NetC14_2_1
+Added Pin To Net: NetName=NetC14_2_2 Pin=C14_2-2
+Added Pin To Net: NetName=NetC14_2_2 Pin=VGA2-5
+Added Net: Name=NetC14_2_2
+Added Pin To Net: NetName=NetC14_3_1 Pin=C14_3-1
+Added Pin To Net: NetName=NetC14_3_1 Pin=VGA3-7
+Added Net: Name=NetC14_3_1
+Added Pin To Net: NetName=NetC14_3_2 Pin=C14_3-2
+Added Pin To Net: NetName=NetC14_3_2 Pin=VGA3-5
+Added Net: Name=NetC14_3_2
+Added Pin To Net: NetName=NetC16_1_1 Pin=C16_1-1
+Added Pin To Net: NetName=NetC16_1_1 Pin=VGA1-8
+Added Net: Name=NetC16_1_1
+Added Pin To Net: NetName=NetC16_1_2 Pin=C16_1-2
+Added Pin To Net: NetName=NetC16_1_2 Pin=RFB1-1
+Added Pin To Net: NetName=NetC16_1_2 Pin=VGA1-4
+Added Net: Name=NetC16_1_2
+Added Pin To Net: NetName=NetC16_2_1 Pin=C16_2-1
+Added Pin To Net: NetName=NetC16_2_1 Pin=VGA2-8
+Added Net: Name=NetC16_2_1
+Added Pin To Net: NetName=NetC16_2_2 Pin=C16_2-2
+Added Pin To Net: NetName=NetC16_2_2 Pin=RFB2-1
+Added Pin To Net: NetName=NetC16_2_2 Pin=VGA2-4
+Added Net: Name=NetC16_2_2
+Added Pin To Net: NetName=NetC16_3_1 Pin=C16_3-1
+Added Pin To Net: NetName=NetC16_3_1 Pin=VGA3-8
+Added Net: Name=NetC16_3_1
+Added Pin To Net: NetName=NetC16_3_2 Pin=C16_3-2
+Added Pin To Net: NetName=NetC16_3_2 Pin=RFB3-1
+Added Pin To Net: NetName=NetC16_3_2 Pin=VGA3-4
+Added Net: Name=NetC16_3_2
+Added Pin To Net: NetName=NetC17_1_2 Pin=C17_1-2
+Added Pin To Net: NetName=NetC17_1_2 Pin=VGA1-12
+Added Net: Name=NetC17_1_2
+Added Pin To Net: NetName=NetC17_2_2 Pin=C17_2-2
+Added Pin To Net: NetName=NetC17_2_2 Pin=VGA2-12
+Added Net: Name=NetC17_2_2
+Added Pin To Net: NetName=NetC17_3_2 Pin=C17_3-2
+Added Pin To Net: NetName=NetC17_3_2 Pin=VGA3-12
+Added Net: Name=NetC17_3_2
+Added Pin To Net: NetName=NetC32_1_2 Pin=C32_1-2
+Added Pin To Net: NetName=NetC32_1_2 Pin=L5_1-2
+Added Pin To Net: NetName=NetC32_1_2 Pin=VGA1-14
+Added Net: Name=NetC32_1_2
+Added Pin To Net: NetName=NetC32_2_2 Pin=C32_2-2
+Added Pin To Net: NetName=NetC32_2_2 Pin=L5_2-2
+Added Pin To Net: NetName=NetC32_2_2 Pin=VGA2-14
+Added Net: Name=NetC32_2_2
+Added Pin To Net: NetName=NetC32_3_2 Pin=C32_3-2
+Added Pin To Net: NetName=NetC32_3_2 Pin=L5_3-2
+Added Pin To Net: NetName=NetC32_3_2 Pin=VGA3-14
+Added Net: Name=NetC32_3_2
+Added Pin To Net: NetName=NetCFB1_1 Pin=CFB1-1
+Added Pin To Net: NetName=NetCFB1_1 Pin=RFB1-2
+Added Net: Name=NetCFB1_1
+Added Pin To Net: NetName=NetCFB1_2 Pin=CFB1-2
+Added Pin To Net: NetName=NetCFB1_2 Pin=CINH1-1
+Added Pin To Net: NetName=NetCFB1_2 Pin=CSH1-2
+Added Pin To Net: NetName=NetCFB1_2 Pin=VGA1-2
+Added Net: Name=NetCFB1_2
+Added Pin To Net: NetName=NetCFB2_1 Pin=CFB2-1
+Added Pin To Net: NetName=NetCFB2_1 Pin=RFB2-2
+Added Net: Name=NetCFB2_1
+Added Pin To Net: NetName=NetCFB2_2 Pin=CFB2-2
+Added Pin To Net: NetName=NetCFB2_2 Pin=CINH2-1
+Added Pin To Net: NetName=NetCFB2_2 Pin=CSH2-2
+Added Pin To Net: NetName=NetCFB2_2 Pin=VGA2-2
+Added Net: Name=NetCFB2_2
+Added Pin To Net: NetName=NetCFB3_1 Pin=CFB3-1
+Added Pin To Net: NetName=NetCFB3_1 Pin=RFB3-2
+Added Net: Name=NetCFB3_1
+Added Pin To Net: NetName=NetCFB3_2 Pin=CFB3-2
+Added Pin To Net: NetName=NetCFB3_2 Pin=CINH3-1
+Added Pin To Net: NetName=NetCFB3_2 Pin=CSH3-2
+Added Pin To Net: NetName=NetCFB3_2 Pin=VGA3-2
+Added Net: Name=NetCFB3_2
+Added Pin To Net: NetName=NetCINH1_2 Pin=CINH1-2
+Added Pin To Net: NetName=NetCINH1_2 Pin=L1_1-2
+Added Net: Name=NetCINH1_2
+Added Pin To Net: NetName=NetCINH2_2 Pin=CINH2-2
+Added Pin To Net: NetName=NetCINH2_2 Pin=L1_2-2
+Added Net: Name=NetCINH2_2
+Added Pin To Net: NetName=NetCINH3_2 Pin=CINH3-2
+Added Pin To Net: NetName=NetCINH3_2 Pin=L1_3-2
+Added Net: Name=NetCINH3_2
+Added Pin To Net: NetName=NetCLMD1_2 Pin=CLMD1-2
+Added Pin To Net: NetName=NetCLMD1_2 Pin=VGA1-1
+Added Net: Name=NetCLMD1_2
+Added Pin To Net: NetName=NetCLMD2_2 Pin=CLMD2-2
+Added Pin To Net: NetName=NetCLMD2_2 Pin=VGA2-1
+Added Net: Name=NetCLMD2_2
+Added Pin To Net: NetName=NetCLMD3_2 Pin=CLMD3-2
+Added Pin To Net: NetName=NetCLMD3_2 Pin=VGA3-1
+Added Net: Name=NetCLMD3_2
+Added Pin To Net: NetName=NetHILO1_2 Pin=HILO1-2
+Added Pin To Net: NetName=NetHILO1_2 Pin=VGA1-13
+Added Net: Name=NetHILO1_2
+Added Pin To Net: NetName=NetHILO2_2 Pin=HILO2-2
+Added Pin To Net: NetName=NetHILO2_2 Pin=VGA2-13
+Added Net: Name=NetHILO2_2
+Added Pin To Net: NetName=NetHILO3_2 Pin=HILO3-2
+Added Pin To Net: NetName=NetHILO3_2 Pin=VGA3-13
+Added Net: Name=NetHILO3_2
+Added Pin To Net: NetName=NetL3_1_2 Pin=L3_1-2
+Added Pin To Net: NetName=NetL3_1_2 Pin=R44_1-1
+Added Pin To Net: NetName=NetL3_1_2 Pin=VGA1-16
+Added Net: Name=NetL3_1_2
+Added Pin To Net: NetName=NetL3_2_2 Pin=L3_2-2
+Added Pin To Net: NetName=NetL3_2_2 Pin=R44_2-1
+Added Pin To Net: NetName=NetL3_2_2 Pin=VGA2-16
+Added Net: Name=NetL3_2_2
+Added Pin To Net: NetName=NetL3_3_2 Pin=L3_3-2
+Added Pin To Net: NetName=NetL3_3_2 Pin=R44_3-1
+Added Pin To Net: NetName=NetL3_3_2 Pin=VGA3-16
+Added Net: Name=NetL3_3_2
+Added Pin To Net: NetName=NetL4_1_2 Pin=L4_1-2
+Added Pin To Net: NetName=NetL4_1_2 Pin=R43_1-1
+Added Pin To Net: NetName=NetL4_1_2 Pin=VGA1-15
+Added Net: Name=NetL4_1_2
+Added Pin To Net: NetName=NetL4_2_2 Pin=L4_2-2
+Added Pin To Net: NetName=NetL4_2_2 Pin=R43_2-1
+Added Pin To Net: NetName=NetL4_2_2 Pin=VGA2-15
+Added Net: Name=NetL4_2_2
+Added Pin To Net: NetName=NetL4_3_2 Pin=L4_3-2
+Added Pin To Net: NetName=NetL4_3_2 Pin=R43_3-1
+Added Pin To Net: NetName=NetL4_3_2 Pin=VGA3-15
+Added Net: Name=NetL4_3_2
+Added Pin To Net: NetName=NetMODE1_2 Pin=MODE1-2
+Added Pin To Net: NetName=NetMODE1_2 Pin=VGA1-9
+Added Net: Name=NetMODE1_2
+Added Pin To Net: NetName=NetMODE2_2 Pin=MODE2-2
+Added Pin To Net: NetName=NetMODE2_2 Pin=VGA2-9
+Added Net: Name=NetMODE2_2
+Added Pin To Net: NetName=NetMODE3_2 Pin=MODE3-2
+Added Pin To Net: NetName=NetMODE3_2 Pin=VGA3-9
+Added Net: Name=NetMODE3_2
+Added Pin To Net: NetName=SCLK Pin=ADC1-9
+Added Pin To Net: NetName=SCLK Pin=ADC2-9
+Added Pin To Net: NetName=SCLK Pin=ADC3-9
+Added Pin To Net: NetName=SCLK Pin=Arduino_Interface-10
+Added Pin To Net: NetName=SCLK Pin=CHEETAH-7
+Added Net: Name=SCLK
+Added Pin To Net: NetName=SS1 Pin=ADC1-10
+Added Pin To Net: NetName=SS1 Pin=Arduino_Interface-7
+Added Pin To Net: NetName=SS1 Pin=CHEETAH-9
+Added Net: Name=SS1
+Added Pin To Net: NetName=SS2 Pin=ADC2-10
+Added Pin To Net: NetName=SS2 Pin=Arduino_Interface-9
+Added Pin To Net: NetName=SS2 Pin=CHEETAH-1
+Added Net: Name=SS2
+Added Pin To Net: NetName=SS3 Pin=ADC3-10
+Added Pin To Net: NetName=SS3 Pin=Arduino_Interface-11
+Added Pin To Net: NetName=SS3 Pin=CHEETAH-3
+Added Net: Name=SS3
+Added Pin To Net: NetName=VCM1 Pin=Arduino_Interface-2
+Added Pin To Net: NetName=VCM1 Pin=C18_1-2
+Added Pin To Net: NetName=VCM1 Pin=VGA1-11
+Added Net: Name=VCM1
+Added Pin To Net: NetName=VCM2 Pin=Arduino_Interface-4
+Added Pin To Net: NetName=VCM2 Pin=C18_2-2
+Added Pin To Net: NetName=VCM2 Pin=VGA2-11
+Added Net: Name=VCM2
+Added Pin To Net: NetName=VCM3 Pin=Arduino_Interface-6
+Added Pin To Net: NetName=VCM3 Pin=C18_3-2
+Added Pin To Net: NetName=VCM3 Pin=VGA3-11
+Added Net: Name=VCM3
+Added Class: Name=sonar
+Added Room: Name=sonar

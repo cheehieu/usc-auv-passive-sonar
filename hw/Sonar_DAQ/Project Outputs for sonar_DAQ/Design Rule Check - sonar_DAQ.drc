@@ -1,0 +1,81 @@
+Protel Design System Design Rule Check
+PCB File : D:\Robotics\SVN\Altium\Projects\Sonar_DAQ\sonar_DAQ.PcbDoc
+Date     : 6/29/2012
+Time     : 8:05:33 PM
+
+Processing Rule : Room sonar_DAQ (Bounding Region = (0mil, 0mil, 8940mil, 6925mil) (InComponentClass('sonar_DAQ'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: Pad Free-(975mil,537.5mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-(2825mil,537.5mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-(2825mil,3262.5mil)  Multi-Layer
+   Violation between Hole Size Constraint: Pad Free-(975mil,3262.5mil)  Multi-Layer
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Pad ADC3-6(901.024mil,1271.181mil)  Top Layer and 
+                     Pad ADC3-5(901.024mil,1296.772mil)  Top Layer
+   Violation between Pad ADC3-7(901.024mil,1245.591mil)  Top Layer and 
+                     Pad ADC3-6(901.024mil,1271.181mil)  Top Layer
+   Violation between Pad ADC3-8(901.024mil,1220mil)  Top Layer and 
+                     Pad ADC3-7(901.024mil,1245.591mil)  Top Layer
+   Violation between Pad ADC3-2(1090mil,1245.591mil)  Top Layer and 
+                     Pad ADC3-3(1090mil,1271.181mil)  Top Layer
+   Violation between Pad ADC3-1(1090mil,1220mil)  Top Layer and 
+                     Pad ADC3-2(1090mil,1245.591mil)  Top Layer
+   Violation between Pad ADC2-6(901.024mil,2011.181mil)  Top Layer and 
+                     Pad ADC2-5(901.024mil,2036.772mil)  Top Layer
+   Violation between Pad ADC2-7(901.024mil,1985.591mil)  Top Layer and 
+                     Pad ADC2-6(901.024mil,2011.181mil)  Top Layer
+   Violation between Pad ADC2-8(901.024mil,1960mil)  Top Layer and 
+                     Pad ADC2-7(901.024mil,1985.591mil)  Top Layer
+   Violation between Pad ADC2-2(1090mil,1985.591mil)  Top Layer and 
+                     Pad ADC2-3(1090mil,2011.181mil)  Top Layer
+   Violation between Pad ADC2-1(1090mil,1960mil)  Top Layer and 
+                     Pad ADC2-2(1090mil,1985.591mil)  Top Layer
+   Violation between Pad ADC1-6(901.024mil,2731.181mil)  Top Layer and 
+                     Pad ADC1-5(901.024mil,2756.772mil)  Top Layer
+   Violation between Pad ADC1-7(901.024mil,2705.591mil)  Top Layer and 
+                     Pad ADC1-6(901.024mil,2731.181mil)  Top Layer
+   Violation between Pad ADC1-8(901.024mil,2680mil)  Top Layer and 
+                     Pad ADC1-7(901.024mil,2705.591mil)  Top Layer
+   Violation between Pad ADC1-2(1090mil,2705.591mil)  Top Layer and 
+                     Pad ADC1-3(1090mil,2731.181mil)  Top Layer
+   Violation between Pad ADC1-1(1090mil,2680mil)  Top Layer and 
+                     Pad ADC1-2(1090mil,2705.591mil)  Top Layer
+Rule Violations :15
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 19
+Time Elapsed        : 00:00:01

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MISO Pin=Arduino-7
+Removed Pin From Net: NetName=SCLK Pin=Arduino-9
+Added Pin To Net: NetName=SCLK Pin=Arduino-7
+Added Pin To Net: NetName=MISO Pin=Arduino-9

@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=12V Pin=Arduino-12
+Removed Pin From Net: NetName=GND Pin=Arduino-14
+Removed Pin From Net: NetName=GAIN1 Pin=C34_1-2
+Removed Pin From Net: NetName=GAIN2 Pin=C34_2-2
+Removed Pin From Net: NetName=GAIN3 Pin=C34_3-2
+Removed Pin From Net: NetName=GAIN1 Pin=VGA1-10
+Removed Pin From Net: NetName=GAIN2 Pin=VGA2-10
+Removed Pin From Net: NetName=GAIN3 Pin=VGA3-10
+Change Component Footprint: Designator=Arduino Old Footprint=HDR2X7 New Footprint=HDR2X8
+Change Component Comment : Designator=Arduino Old Comment=Header 7X2 New Comment=Header 8X2
+Added Component: Designator=CG_1(CAP_VGA_01UF)
+Added Component: Designator=CG_2(CAP_VGA_01UF)
+Added Component: Designator=CG_3(CAP_VGA_01UF)
+Added Component: Designator=LED1(LED)
+Added Component: Designator=LED2(led)
+Added Component: Designator=LED3(led)
+Added Component: Designator=R1(res_vga_274)
+Added Component: Designator=R2(res_vga_274)
+Added Component: Designator=R3(res_vga_274)
+Added Component: Designator=RG_1(res_vga_274)
+Added Component: Designator=RG_2(res_vga_274)
+Added Component: Designator=RG_3(res_vga_274)
+Added Pin To Net: NetName=12V Pin=Arduino-14
+Added Pin To Net: NetName=GND Pin=Arduino-16
+Added Pin To Net: NetName=GND Pin=CG_1-1
+Added Pin To Net: NetName=GND Pin=CG_2-1
+Added Pin To Net: NetName=GND Pin=CG_3-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Pin To Net: NetName=SCLK Pin=R2-2
+Added Pin To Net: NetName=GAIN1 Pin=RG_1-1
+Added Pin To Net: NetName=GAIN2 Pin=RG_2-1
+Added Pin To Net: NetName=GAIN3 Pin=RG_3-1
+Added Pin To Net: NetName=AUX Pin=Arduino-15
+Added Pin To Net: NetName=AUX Pin=R3-2
+Added Net: Name=AUX
+Added Pin To Net: NetName=NetC34_1_2 Pin=C34_1-2
+Added Pin To Net: NetName=NetC34_1_2 Pin=CG_1-2
+Added Pin To Net: NetName=NetC34_1_2 Pin=RG_1-2
+Added Pin To Net: NetName=NetC34_1_2 Pin=VGA1-10
+Added Net: Name=NetC34_1_2
+Added Pin To Net: NetName=NetC34_2_2 Pin=C34_2-2
+Added Pin To Net: NetName=NetC34_2_2 Pin=CG_2-2
+Added Pin To Net: NetName=NetC34_2_2 Pin=RG_2-2
+Added Pin To Net: NetName=NetC34_2_2 Pin=VGA2-10
+Added Net: Name=NetC34_2_2
+Added Pin To Net: NetName=NetC34_3_2 Pin=C34_3-2
+Added Pin To Net: NetName=NetC34_3_2 Pin=CG_3-2
+Added Pin To Net: NetName=NetC34_3_2 Pin=RG_3-2
+Added Pin To Net: NetName=NetC34_3_2 Pin=VGA3-10
+Added Net: Name=NetC34_3_2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R3-1
+Added Net: Name=NetLED3_1
+Added Member To Class: ClassName=sonar Member=Component CG_1 Cap
+Added Member To Class: ClassName=sonar Member=Component CG_2 Cap
+Added Member To Class: ClassName=sonar Member=Component CG_3 Cap
+Added Member To Class: ClassName=sonar Member=Component LED1 LED3
+Added Member To Class: ClassName=sonar Member=Component LED2 LED3
+Added Member To Class: ClassName=sonar Member=Component LED3
+Added Member To Class: ClassName=sonar Member=Component R1 Res3
+Added Member To Class: ClassName=sonar Member=Component R2 Res3
+Added Member To Class: ClassName=sonar Member=Component R3 Res3
+Added Member To Class: ClassName=sonar Member=Component RG_1 Res3
+Added Member To Class: ClassName=sonar Member=Component RG_2 Res3
+Added Member To Class: ClassName=sonar Member=Component RG_3 Res3

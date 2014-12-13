@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [sonar_DAQ_single.PrjPCB]
+   Generated File[sonar_DAQ_single-RoundHoles.TXT]
+   Generated File[sonar_DAQ_single-SquareHoles.TXT]
+   Generated File[sonar_DAQ_single.DRL]
+   Generated File[sonar_DAQ_single.LDP]
+   Generated File[sonar_DAQ_single.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 8:04:05 PM On 6/13/2012

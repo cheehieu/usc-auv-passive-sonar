@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCM2 Pin=Arduino-10
+Added Pin To Net: NetName=VCM2 Pin=Arduino-8
+Added Pin To Net: NetName=NetArduino_10 Pin=Arduino-10
+Added Pin To Net: NetName=NetArduino_10 Pin=CG_2-1
+Added Net: Name=NetArduino_10
