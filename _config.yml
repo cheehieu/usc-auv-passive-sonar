@@ -30,7 +30,7 @@ disqus: cheehieu
 google_analytics: UA-56490050-1
 
 # Website
-url: http://niftyhedgehog.com
+url: https://niftyhedgehog.com
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
@@ -41,11 +41,11 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-markdown: redcarpet
-highlighter: pygments
+# markdown: redcarpet
+highlighter: rouge
 permalink: /:year/:month/:day/:title
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+# redcarpet:
+#   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
 
 # Use the following plug-ins
 gems:
